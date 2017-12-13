@@ -1,6 +1,6 @@
-# Source code for "Runaway Feedback Loops in Predictive Policing"
+# Source code for Polya Urn experiments in "Runaway Feedback Loops in Predictive Policing"
 
-This repository contains code for the experiments in
+This repository contains code for the generalized Polya Urn experiments reported in
 [Runaway Feedback Loops in Predictive Policing](https://arxiv.org/abs/1706.09847).
 
 You'll need:
